@@ -26,6 +26,7 @@ Make a GitHub folder structure like:
     └── BART-large-full-GPT (models fine-tuned on full GPT data)
     ├── Codes for finetuning and distillation
     └── Test Result
+```    
     
 ## Documents (Please log into your CMU account before view those documents)
 - Model survey: https://docs.google.com/spreadsheets/d/1oaH8wEdbP3o2mx_IcusdNBpudNhHU4CJLOcceRNJIzE/edit?usp=sharing
