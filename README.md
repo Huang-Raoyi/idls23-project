@@ -19,9 +19,10 @@ Make a GitHub folder structure like:
 │   ├── BART
 │   ├── Peagus
 │   ├── Prophetnet
-│   └──  cnn_dailymail (test dataset)
-│   
+│   └── cnn_dailymail (test dataset)
 ├── Data
+│   ├── Crawler.ipynb
+│   └── Crawled and preprocessed data
 └── BART-finetune-distill
     └── BART-large-full-GPT (models fine-tuned on full GPT data and some test results)
     ├── Codes for finetuning and distillation
