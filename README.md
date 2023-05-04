@@ -18,8 +18,7 @@ Make a GitHub folder structure like:
 ├── Baseline Models
 │   ├── BART
 │   ├── Peagus
-│   ├── Prophetnet
-│   └── cnn_dailymail (test dataset)
+│   └── Prophetnet
 ├── Data
 │   ├── Crawler.ipynb
 │   └── Crawled and preprocessed data
