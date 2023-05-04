@@ -33,6 +33,7 @@ Make a GitHub folder structure like:
 - Test result: https://docs.google.com/spreadsheets/d/1nuIVUUzraZFVFtB-UX6lMN4AJAy_MSjiSIaOHfwEl0M/edit?usp=sharing
 - Final presentation slides: https://docs.google.com/presentation/d/19S5laqod3Y4nArRCuUQ_m1lVQoqlbo3jOy2DF1JBu9Y/edit?usp=share_link
 - [Model-full-ChatGPT](https://drive.google.com/drive/folders/1Z41xhxxcJdfDhto5YQpCBER0w4kYieiE?usp=sharing): models are too large to be uploaded
+- [full-ChatGPT-dataset](https://drive.google.com/file/d/1uWdBBvrRNE23hsJVmVlRHZudjmccH4e8/view?usp=sharing): full dataset is too large to be uploaded
 
 (Please log into your CMU account before view those documents)
 
