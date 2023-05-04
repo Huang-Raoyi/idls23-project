@@ -16,9 +16,9 @@ TA Mentor:
 Make a GitHub folder structure like:
 ├── README.md
 ├── Baseline Models
-│   ├── BART
-│   ├── Peagus
-│   └── Prophetnet
+│   ├── BART.ipynb
+│   ├── Peagus.ipynb
+│   └── Prophetnet.ipynb
 ├── Data
 │   ├── Crawler.ipynb
 │   └── Partial Crawled data
