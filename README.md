@@ -25,7 +25,7 @@ Make a GitHub folder structure like:
 └── BART-finetune-distill
 │   ├── Finetune.ipynb
 │   └── Distilled.ipynb
-└── Test (Test results on DialogSum or Samsum evaluation datasets)
+└── Test (Test codes and results on DialogSum or Samsum evaluation datasets)
 ```    
     
 ## Documents 
