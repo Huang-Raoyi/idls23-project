@@ -23,8 +23,8 @@ Make a GitHub folder structure like:
 │   ├── Crawler.ipynb
 │   └── Crawled and preprocessed data
 └── BART-finetune-distill
-    ├── Codes for finetuning and distillation
-    └── Test Result
+│   └──  Codes for finetuning and distillation
+└── Test (Test results on DialogSum or Samsum evaluation datasets)
 ```    
     
 ## Documents 
