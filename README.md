@@ -45,8 +45,8 @@ Make a GitHub folder structure like:
 ## Data
 * In this study, we used the [Samsum dataset](https://huggingface.co/datasets/samsum).
 * From Samsum dataset, we created the hybrid dataset and full-ChatGPT dataset by OpenAI ChatGPT API.
-    * Hybrid dataset: created by replace half of the summaries by the summary outputs of ChatGPT given the Samsum dialogues
-    * ChatGPT dataset: created by replace all of the summaries by the summary outputs of ChatGPT given the Samsum dialogues
+    * Hybrid dataset: created by replacing half of the summaries by the summary outputs of ChatGPT given the Samsum dialogues
+    * ChatGPT dataset: created by replacing all of the summaries by the summary outputs of ChatGPT given the Samsum dialogues
 * Evaluate the models on Samsum evaluation dataset and [DialogSum dataset](https://huggingface.co/datasets/knkarthick/dialogsum).
 
 
